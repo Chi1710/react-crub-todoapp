@@ -15,12 +15,6 @@ const CustomForm = ( { addTask, deleteTask } ) => {
         setTask("");
     } 
 
-    // const handleFormDelete = (e) => {
-    //   deleteTask({
-
-    //   });
-    //   setTask("")
-    // }
 
   return (
     <form  
